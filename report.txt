@@ -1,4 +1,4 @@
-Container '/Users/fredrikdanielsen/sandbox/MonokkelFredrik/MonokkelFredrik.github.io/game/Scene002.vs'
+Container '/Users/fredrikdanielsen/sandbox/MonokkelFredrik/MonokkelFredrik.github.io/Scene002.vs'
 -------------------------------------------------------------------------------
 assets/rooms/kitchen/background.png
 assets/sounds/coffee.ogg
@@ -11,11 +11,11 @@ assets/rooms/kitchen/cup.png
 assets/sounds/drink.ogg
 assets/sounds/kiss.ogg
 --------------------------------------------------------------------------------
-Container '/Users/fredrikdanielsen/sandbox/MonokkelFredrik/MonokkelFredrik.github.io/game/Scene004.vs'
+Container '/Users/fredrikdanielsen/sandbox/MonokkelFredrik/MonokkelFredrik.github.io/Scene004.vs'
 -------------------------------------------------------------------------------
 assets/rooms/end/end.png
 --------------------------------------------------------------------------------
-Container '/Users/fredrikdanielsen/sandbox/MonokkelFredrik/MonokkelFredrik.github.io/game/Character001.vc'
+Container '/Users/fredrikdanielsen/sandbox/MonokkelFredrik/MonokkelFredrik.github.io/Character001.vc'
 -------------------------------------------------------------------------------
 assets/sounds/walk2.ogg
 assets/characters/senior/WALK/right/sprite_walk_right0.png
@@ -62,7 +62,7 @@ assets/characters/senior/STAND/front/sprite_standing0.png
 assets/characters/senior/STAND/front/sprite_standing1.png
 assets/characters/senior/STAND/front/sprite_standing2.png
 --------------------------------------------------------------------------------
-Container '/Users/fredrikdanielsen/sandbox/MonokkelFredrik/MonokkelFredrik.github.io/game/Scene000.vs'
+Container '/Users/fredrikdanielsen/sandbox/MonokkelFredrik/MonokkelFredrik.github.io/Scene000.vs'
 -------------------------------------------------------------------------------
 assets/rooms/bathroom/background.png
 assets/sounds/pee.ogg
@@ -80,11 +80,11 @@ assets/animations/water/sprite_water09.png
 assets/ui/lidal.png
 assets/sounds/holy.ogg
 --------------------------------------------------------------------------------
-Container '/Users/fredrikdanielsen/sandbox/MonokkelFredrik/MonokkelFredrik.github.io/game/Scene001.vs'
+Container '/Users/fredrikdanielsen/sandbox/MonokkelFredrik/MonokkelFredrik.github.io/Scene001.vs'
 -------------------------------------------------------------------------------
 assets/rooms/start/start.png
 --------------------------------------------------------------------------------
-Container '/Users/fredrikdanielsen/sandbox/MonokkelFredrik/MonokkelFredrik.github.io/game/Scene003.vs'
+Container '/Users/fredrikdanielsen/sandbox/MonokkelFredrik/MonokkelFredrik.github.io/Scene003.vs'
 -------------------------------------------------------------------------------
 assets/rooms/office/background.png
 assets/sounds/flute.ogg
@@ -100,14 +100,14 @@ assets/sounds/fall.ogg
 assets/rooms/office/shelf.png
 assets/sounds/door.ogg
 --------------------------------------------------------------------------------
-Container '/Users/fredrikdanielsen/sandbox/MonokkelFredrik/MonokkelFredrik.github.io/game/Interfaces.vi'
+Container '/Users/fredrikdanielsen/sandbox/MonokkelFredrik/MonokkelFredrik.github.io/Interfaces.vi'
 -------------------------------------------------------------------------------
 assets/ui/coin.png
 assets/ui/hand.png
 assets/ui/eye.png
 assets/ui/chat.png
 --------------------------------------------------------------------------------
-Container '/Users/fredrikdanielsen/sandbox/MonokkelFredrik/MonokkelFredrik.github.io/game/Untitled.vis'
+Container '/Users/fredrikdanielsen/sandbox/MonokkelFredrik/MonokkelFredrik.github.io/Untitled.vis'
 -------------------------------------------------------------------------------
 assets/fonts/Saturday.otf
 assets/ui/cursor_active.png

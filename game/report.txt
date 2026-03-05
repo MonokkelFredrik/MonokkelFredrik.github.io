@@ -1,0 +1,138 @@
+Container '/Users/fredrikdanielsen/sandbox/MonokkelFredrik/MonokkelFredrik.github.io/game/Scene002.vs'
+-------------------------------------------------------------------------------
+assets/rooms/kitchen/background.png
+assets/sounds/coffee.ogg
+assets/animations/coffee/sprite_coffee0.png
+assets/animations/coffee/sprite_coffee1.png
+assets/animations/coffee/sprite_coffee2.png
+assets/animations/coffee/sprite_coffee3.png
+assets/animations/coffee/sprite_coffee4.png
+assets/rooms/kitchen/cup.png
+assets/sounds/drink.ogg
+assets/sounds/kiss.ogg
+--------------------------------------------------------------------------------
+Container '/Users/fredrikdanielsen/sandbox/MonokkelFredrik/MonokkelFredrik.github.io/game/Scene004.vs'
+-------------------------------------------------------------------------------
+assets/rooms/end/end.png
+--------------------------------------------------------------------------------
+Container '/Users/fredrikdanielsen/sandbox/MonokkelFredrik/MonokkelFredrik.github.io/game/Character001.vc'
+-------------------------------------------------------------------------------
+assets/sounds/walk2.ogg
+assets/characters/senior/WALK/right/sprite_walk_right0.png
+assets/characters/senior/WALK/right/sprite_walk_right1.png
+assets/characters/senior/WALK/right/sprite_walk_right2.png
+assets/characters/senior/WALK/right/sprite_walk_right3.png
+assets/characters/senior/WALK/right/sprite_walk_right4.png
+assets/characters/senior/WALK/right/sprite_walk_right5.png
+assets/characters/senior/WALK/right/sprite_walk_right6.png
+assets/characters/senior/WALK/back/sprite_back3.png
+assets/characters/senior/WALK/back/sprite_back0.png
+assets/characters/senior/WALK/back/sprite_back1.png
+assets/characters/senior/WALK/back/sprite_back2.png
+assets/characters/senior/WALK/back/sprite_back4.png
+assets/characters/senior/WALK/back/sprite_back5.png
+assets/characters/senior/WALK/back/sprite_back6.png
+assets/characters/senior/WALK/back/sprite_back8.png
+assets/characters/senior/WALK/back/sprite_back7.png
+assets/characters/senior/WALK/left/sprite_walk_left0.png
+assets/characters/senior/WALK/left/sprite_walk_left1.png
+assets/characters/senior/WALK/left/sprite_walk_left2.png
+assets/characters/senior/WALK/left/sprite_walk_left3.png
+assets/characters/senior/WALK/left/sprite_walk_left4.png
+assets/characters/senior/WALK/left/sprite_walk_left5.png
+assets/characters/senior/WALK/left/sprite_walk_left6.png
+assets/characters/senior/WALK/front/sprite_walk_front0.png
+assets/characters/senior/WALK/front/sprite_walk_front1.png
+assets/characters/senior/WALK/front/sprite_walk_front2.png
+assets/characters/senior/WALK/front/sprite_walk_front3.png
+assets/characters/senior/WALK/front/sprite_walk_front4.png
+assets/characters/senior/WALK/front/sprite_walk_front5.png
+assets/characters/senior/WALK/front/sprite_walk_front6.png
+assets/characters/senior/WALK/front/sprite_walk_front7.png
+assets/characters/senior/STAND/right/sprite_stand_right0.png
+assets/characters/senior/STAND/right/sprite_stand_right1.png
+assets/characters/senior/STAND/right/sprite_stand_right2.png
+assets/characters/senior/STAND/back/sprite_stand_back0.png
+assets/characters/senior/STAND/back/sprite_stand_back1.png
+assets/characters/senior/STAND/back/sprite_stand_back2.png
+assets/characters/senior/STAND/left/sprite_stand_left0.png
+assets/characters/senior/STAND/left/sprite_stand_left1.png
+assets/characters/senior/STAND/left/sprite_stand_left2.png
+assets/characters/senior/STAND/front/sprite_standing0.png
+assets/characters/senior/STAND/front/sprite_standing1.png
+assets/characters/senior/STAND/front/sprite_standing2.png
+--------------------------------------------------------------------------------
+Container '/Users/fredrikdanielsen/sandbox/MonokkelFredrik/MonokkelFredrik.github.io/game/Scene000.vs'
+-------------------------------------------------------------------------------
+assets/rooms/bathroom/background.png
+assets/sounds/pee.ogg
+assets/sounds/drip.ogg
+assets/animations/water/sprite_water00.png
+assets/animations/water/sprite_water01.png
+assets/animations/water/sprite_water02.png
+assets/animations/water/sprite_water03.png
+assets/animations/water/sprite_water04.png
+assets/animations/water/sprite_water05.png
+assets/animations/water/sprite_water06.png
+assets/animations/water/sprite_water07.png
+assets/animations/water/sprite_water08.png
+assets/animations/water/sprite_water09.png
+assets/ui/lidal.png
+assets/sounds/holy.ogg
+--------------------------------------------------------------------------------
+Container '/Users/fredrikdanielsen/sandbox/MonokkelFredrik/MonokkelFredrik.github.io/game/Scene001.vs'
+-------------------------------------------------------------------------------
+assets/rooms/start/start.png
+--------------------------------------------------------------------------------
+Container '/Users/fredrikdanielsen/sandbox/MonokkelFredrik/MonokkelFredrik.github.io/game/Scene003.vs'
+-------------------------------------------------------------------------------
+assets/rooms/office/background.png
+assets/sounds/flute.ogg
+assets/ui/the_end.png
+assets/rooms/office/open_book.png
+assets/rooms/office/happy.png
+assets/rooms/office/chair.png
+assets/rooms/office/desk.png
+assets/sounds/keyboard.ogg
+assets/sounds/done.ogg
+assets/rooms/office/book.png
+assets/sounds/fall.ogg
+assets/rooms/office/shelf.png
+assets/sounds/door.ogg
+--------------------------------------------------------------------------------
+Container '/Users/fredrikdanielsen/sandbox/MonokkelFredrik/MonokkelFredrik.github.io/game/Interfaces.vi'
+-------------------------------------------------------------------------------
+assets/ui/coin.png
+assets/ui/hand.png
+assets/ui/eye.png
+assets/ui/chat.png
+--------------------------------------------------------------------------------
+Container '/Users/fredrikdanielsen/sandbox/MonokkelFredrik/MonokkelFredrik.github.io/game/Untitled.vis'
+-------------------------------------------------------------------------------
+assets/fonts/Saturday.otf
+assets/ui/cursor_active.png
+assets/ui/cursor_inactive.png
+assets/ui/arrow_walk.png
+assets/sounds/intro.ogg
+game.vxx
+--------------------------------------------------------------------------------
+
+Containers:
+
+
+Character001.vc 1 Senior Developer
+
+Interfaces.vi 0 
+
+Scene000.vs 1 Bathroom
+
+Scene001.vs 3 StartScreen
+
+Scene002.vs 2 Kitchen
+
+Scene003.vs 0 Office
+
+Scene004.vs 4 TheEnd
+
+Untitled.vis 0 
+

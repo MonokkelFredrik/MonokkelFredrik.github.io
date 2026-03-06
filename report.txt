@@ -79,6 +79,10 @@ assets/animations/water/sprite_water08.png
 assets/animations/water/sprite_water09.png
 assets/ui/lidal.png
 assets/sounds/holy.ogg
+assets/rooms/bathroom/light/l1_sprite_light1.png
+assets/rooms/bathroom/light/l1_sprite_light2.png
+assets/rooms/bathroom/light/l1_sprite_light3.png
+assets/rooms/bathroom/cake.png
 --------------------------------------------------------------------------------
 Container '/Users/fredrikdanielsen/sandbox/MonokkelFredrik/MonokkelFredrik.github.io/Scene001.vs'
 -------------------------------------------------------------------------------
@@ -89,8 +93,13 @@ Container '/Users/fredrikdanielsen/sandbox/MonokkelFredrik/MonokkelFredrik.githu
 assets/rooms/office/background.png
 assets/sounds/flute.ogg
 assets/ui/the_end.png
-assets/rooms/office/open_book.png
+assets/speech/ferdig.ogg
+assets/rooms/office/light/sprite_light0.png
+assets/rooms/office/light/sprite_light1.png
+assets/rooms/office/light/sprite_light2.png
+assets/rooms/office/light/sprite_light3.png
 assets/rooms/office/happy.png
+assets/rooms/office/open_book.png
 assets/rooms/office/chair.png
 assets/rooms/office/desk.png
 assets/sounds/keyboard.ogg
@@ -98,6 +107,7 @@ assets/sounds/done.ogg
 assets/rooms/office/book.png
 assets/sounds/fall.ogg
 assets/rooms/office/shelf.png
+assets/speech/jobb.ogg
 assets/sounds/door.ogg
 --------------------------------------------------------------------------------
 Container '/Users/fredrikdanielsen/sandbox/MonokkelFredrik/MonokkelFredrik.github.io/Interfaces.vi'
@@ -106,6 +116,55 @@ assets/ui/coin.png
 assets/ui/hand.png
 assets/ui/eye.png
 assets/ui/chat.png
+--------------------------------------------------------------------------------
+Container '/Users/fredrikdanielsen/sandbox/MonokkelFredrik/MonokkelFredrik.github.io/Lang_Unnamed.vt'
+-------------------------------------------------------------------------------
+assets/speech/jobbeannonser.ogg
+assets/speech/101.ogg
+assets/speech/mac.ogg
+assets/speech/nerd.ogg
+assets/speech/rest.ogg
+assets/speech/hard.ogg
+assets/speech/stol.ogg
+assets/speech/svarerikke.ogg
+assets/speech/utenkoffein.ogg
+assets/speech/merkoffein.ogg
+assets/speech/halvfull.ogg
+assets/speech/kaffekaffe.ogg
+assets/speech/deilig.ogg
+assets/speech/smekkfull.ogg
+assets/speech/vaaaken.ogg
+assets/speech/akutt.ogg
+assets/speech/pent.ogg
+assets/speech/vakrest.ogg
+assets/speech/hverdag.ogg
+assets/speech/merry.ogg
+assets/speech/gimegkaffe.ogg
+assets/speech/dispenser.ogg
+assets/speech/tanken.ogg
+assets/speech/tomme.ogg
+assets/speech/adblock.ogg
+assets/speech/gave.ogg
+assets/speech/vaskehenda.ogg
+assets/speech/haster.ogg
+assets/speech/tar.ogg
+assets/speech/ops.ogg
+assets/speech/av.ogg
+assets/speech/flytte.ogg
+assets/speech/bla.ogg
+assets/speech/njet.ogg
+assets/speech/lidal.ogg
+assets/speech/trengerkopp.ogg
+assets/speech/koz.ogg
+assets/speech/levelig.ogg
+assets/speech/junior.ogg
+assets/speech/godkaffekopp.ogg
+assets/speech/neitakk.ogg
+assets/speech/utrulling.ogg
+assets/speech/hvaskjedde.ogg
+assets/speech/intro.ogg
+assets/speech/vatt.ogg
+assets/speech/vann.ogg
 --------------------------------------------------------------------------------
 Container '/Users/fredrikdanielsen/sandbox/MonokkelFredrik/MonokkelFredrik.github.io/Untitled.vis'
 -------------------------------------------------------------------------------
@@ -123,6 +182,8 @@ Containers:
 Character001.vc 1 Senior Developer
 
 Interfaces.vi 0 
+
+Lang_Unnamed.vt 0 Unnamed
 
 Scene000.vs 1 Bathroom
 
